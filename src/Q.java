@@ -1,4 +1,5 @@
 public class Q {
+    
     int n;
     boolean valueSet = false;
 
